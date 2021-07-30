@@ -1,0 +1,61 @@
+{
+	"basics": {
+		"name": "Krishnadevsinh Vaghela",
+		"label": "Student",
+		"picture": "https://github.com/account",
+		"email": "2020KUCP1024@iiitkota.ac.in",
+		"phone": "7698200000",
+		"website": "---Enter Link of website(if any) ---",
+		"summary": "---Tell Something about yourself ---",
+		"location": {
+			"address": "782/1 Sector-2/C",
+			"postalCode": "382007",
+			"city": "Gandhingar",
+			"countryCode": "India",
+			"region": "---State Name---"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "vvkrishnadev",
+				"url": "https://www.twitter.com/vvkrishnadev"
+			},
+			{
+				"network": "Github",
+				"username": "krishna-1991",
+				"url": "https://www.github.com/krishna-1991/"
+			},
+			{
+				"network": "linkedin",
+				"username": "username",
+				"url": "https://www.linkedin.com/in/<username>/"
+			},
+			{
+				"network": "Instagram",
+				"username": "krishnadev_1991",
+				"url": "https://instagram.com/krishnadev_1991"
+			}
+		]
+	},
+
+
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-12-08",
+		"endDate": "----",
+		"gpa": "7.95 in 1st Sem",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Trainee",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Cricket", "Football"]
+	}]
+
+}
