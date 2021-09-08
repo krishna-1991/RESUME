@@ -55,11 +55,6 @@
 	}],
 	"Interests": [{
 		"name": "Sports",
-		"keywords": ["Cricket", "Football", "Volleyball"]
-	}],
-	"Mobile Gaming": [{
-		"name": "Games",
-		"keywords": ["BGMI", "CODM", "Among Us", "FIFA"]
+		"keywords": ["Cricket", "BGMI", "CODM", "Football", "Volleyball"]
 	}]
-
 }
