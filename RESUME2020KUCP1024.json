@@ -2,7 +2,7 @@
 	"basics": {
 		"name": "Krishnadevsinh Vaghela",
 		"label": "Student",
-		"picture": "https://github.com/krishna-1991/",
+		"picture": "https://avatars.githubusercontent.com/u/82509843?v=4",
 		"email": "2020KUCP1024@iiitkota.ac.in",
 		"phone": "7698200000",
 		"website": "---Enter Link of website(if any) ---",
@@ -49,13 +49,15 @@
 			"Computer Science & Engineering"
 		]
 	}],
-	"skills": [{
+	"Skills": [{
 		"level": "Trainee",
 		"keywords": ["HTML", "CSS", "Javascript", "C/C++"]
 	}],
-	"interests": [{
+	"Interests": [{
 		"name": "Sports",
-		"keywords": ["Cricket", "Football"]
+		"keywords": ["Cricket", "Football", "Volleyball"]
+		"name": "Mobile Gaming",
+		"keywords": ["BGMI", "CODM", "Among Us", "FIFA"]
 	}]
 
 }
