@@ -56,7 +56,9 @@
 	"Interests": [{
 		"name": "Sports",
 		"keywords": ["Cricket", "Football", "Volleyball"]
-		"name": "Mobile Gaming",
+	}]
+	"Mobile Gaming": [{
+		"name": "Games",
 		"keywords": ["BGMI", "CODM", "Among Us", "FIFA"]
 	}]
 
