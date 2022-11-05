@@ -5,14 +5,14 @@
 		"picture": "https://avatars.githubusercontent.com/u/82509843?v=4",
 		"email": "2020KUCP1024@iiitkota.ac.in",
 		"phone": "7698200000",
-		"website": "---Enter Link of website(if any) ---",
-		"summary": "---Tell Something about yourself ---",
+		"website": "",
+		"summary": "I'm a student of IIITKOTA Batch-24, Feel free too contact me if you want anything",
 		"location": {
 			"address": "782/1 Sector-2/C",
 			"postalCode": "382007",
 			"city": "Gandhingar",
 			"countryCode": "India",
-			"region": "---State Name---"
+			"region": ""
 		},
 		"profiles": [{
 				"network": "Twitter",
@@ -43,7 +43,7 @@
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
 		"startDate": "2020-12-08",
-		"endDate": "----",
+		"endDate": "",
 		"gpa": "7.95 in 1st Sem",
 		"courses": [
 			"Computer Science & Engineering"
