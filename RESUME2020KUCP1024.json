@@ -49,11 +49,11 @@
 			"Computer Science & Engineering"
 		]
 	}],
-	"Skills": [{
+	"skills": [{
 		"level": "Trainee",
 		"keywords": ["HTML", "CSS", "Javascript", "C/C++"]
 	}],
-	"Interests": [{
+	"interests": [{
 		"name": "Sports",
 		"keywords": ["Cricket", "BGMI", "CODM", "Football", "Volleyball"]
 	}]
